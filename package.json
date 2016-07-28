@@ -1,0 +1,27 @@
+{
+  "name": "flight-plan-converter",
+  "version": "0.0.1",
+  "description": "Converts Flight Plans from and to various file formats.",
+  "bin": "cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/mocha lib/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/der-On/flight-plan-converter.git"
+  },
+  "keywords": [
+    "x-plane",
+    "flight-plan",
+    "fms",
+    "convert",
+    "flight-simulator"
+  ],
+  "author": "Ondrej Brinkel <info@anzui.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/der-On/flight-plan-converter/issues"
+  },
+  "homepage": "https://github.com/der-On/flight-plan-converter#readme"
+}
