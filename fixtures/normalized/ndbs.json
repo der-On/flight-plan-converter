@@ -1,0 +1,20 @@
+{
+  "waypoints": [
+    {
+      "lat": 50.12968, "lon": 14.56817,
+      "elevation": 0,
+      "type": "ndb",
+      "ndb": {
+        "identifier": "K"
+      }
+    },
+    {
+      "lat": 50.19579, "lon": 12.94169,
+      "elevation": 0,
+      "type": "ndb",
+      "ndb": {
+        "identifier": "L"
+      }
+    }
+  ]
+}

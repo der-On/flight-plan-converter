@@ -5,7 +5,7 @@
   "bin": "cli.js",
   "main": "index.js",
   "scripts": {
-    "test": "node node_modules/.bin/mocha lib/**/*.test.js"
+    "test": "node node_modules/.bin/mocha lib/*.test.js lib/**/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/der-On/flight-plan-converter/issues"
   },
-  "homepage": "https://github.com/der-On/flight-plan-converter#readme"
+  "homepage": "https://github.com/der-On/flight-plan-converter#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.5.3"
+  }
 }

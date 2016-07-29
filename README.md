@@ -26,7 +26,7 @@ var msFpl = fs.readFileSync('some-microsoft-flight-sim-flight-plan.fpl', 'utf8')
 
 fs.writeFileSync('x-plane-flight-plan.fms',
   // converts parsed/normalized flight plan to specifique format
-  converter.convertTo(
+  converter.convert(
     // parsed/normalized flight plan
     converter.parse(
       // raw input flight plan
@@ -50,7 +50,7 @@ var fpl = {
       type: converter.types.GPS // -> 'gps'
     },
     {
-      lat: 52.24196492666667, lon: 11.85835872,
+      lat: 52.24196492666667, lon: 11.85835872,f
       elevation: 172,
       type: converter.types.AIRPORT // -> 'airport'
       airport: {
@@ -60,10 +60,9 @@ var fpl = {
     {
       lat: 52.074078, lon: 11.648333,
       elevation: 0,
-      type: converter.types.NAVAID // -> 'navaid'
-      navaid: {
-        identifier: "MU",
-        name: "MAGDEBURG NDB"
+      type: converter.types.NDB // -> 'ndb'
+      ndb: {
+        identifier: "MU"
       }
     },
     {

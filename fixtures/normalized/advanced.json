@@ -1,0 +1,41 @@
+{
+  "waypoints": [
+    {
+      "lat": -23.5091195, "lon": -46.637754,
+      "elevation": 2368,
+      "type": "airport",
+      "airport": {
+        "icao": "SBMT"
+      }
+    },
+    {
+      "lat": -25.52888475, "lon": -49.173062,
+      "elevation": 2987,
+      "type": "airport",
+      "airport": {
+        "icao": "SBCT"
+      }
+    },
+    {
+      "lat": 16.20799, "lon": 102.67484,
+      "elevation": 0,
+      "type": "gps"
+    },
+    {
+      "lat": 50.47111, "lon": 0.49111,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "HARDY"
+      }
+    },
+    {
+      "lat": 16.20799, "lon": 102.67484,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "HARDY"
+      }
+    }
+  ]
+}

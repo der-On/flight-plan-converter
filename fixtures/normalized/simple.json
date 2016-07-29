@@ -1,0 +1,41 @@
+{
+  "waypoints": [
+    {
+      "lat": 50, "lon": 11,
+      "elevation": 100,
+      "type": "gps"
+    },
+    {
+      "lat": 52.24196492666667, "lon": 11.85835872,
+      "elevation": 172,
+      "type": "airport",
+      "airport": {
+        "icao": "EDBG"
+      }
+    },
+    {
+      "lat": 52.074078, "lon": 11.648333,
+      "elevation": 0,
+      "type": "ndb",
+      "ndb": {
+        "identifier": "MU"
+      }
+    },
+    {
+      "lat": 52.363394, "lon": 10.795219,
+      "elevation": 413,
+      "type": "vor",
+      "vor": {
+        "identifier": "HLZ"
+      }
+    },
+    {
+      "lat": 52.546944, "lon": 11.099722,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "BATEL"
+      }
+    }
+  ]
+}

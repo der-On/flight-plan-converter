@@ -1,0 +1,40 @@
+{
+  "waypoints": [
+    {
+      "lat": 52.204475745, "lon": 0.176449865,
+      "elevation": 46,
+      "type": "airport",
+      "airport": {
+        "icao": "EGSC"
+      }
+    },
+    {
+      "lat": 51.82194, "lon": 0.79417,
+      "elevation": 0,
+      "type": "gps"
+    },
+    {
+      "lat": 51.28722, "lon": 1.05333,
+      "elevation": 0,
+      "type": "gps"
+    },
+    {
+      "lat": 51.14902, "lon": 1.05241,
+      "elevation": 0,
+      "type": "gps"
+    },
+    {
+      "lat": 51.06417, "lon": 1.0675,
+      "elevation": 0,
+      "type": "gps"
+    },
+    {
+      "lat": 50.956171425, "lon": 0.93914688,
+      "elevation": 13,
+      "type": "airport",
+      "airport": {
+        "icao": "EGMD"
+      }
+    }
+  ]
+}

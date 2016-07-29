@@ -1,0 +1,92 @@
+{
+  "waypoints": [
+    {
+      "lat": 48.69402, "lon": 9.2438,
+      "elevation": 1276,
+      "type": "airport",
+      "airport": {
+        "icao": "EDDS"
+      }
+    },
+    {
+      "lat": 48.66924444, "lon": 9.11420278,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "DS046"
+      }
+    },
+    {
+      "lat": 48.612525, "lon": 9.12643889,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "DS048"
+      }
+    },
+    {
+      "lat": 48.61840833, "lon": 9.25920833,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "TEDGO"
+      }
+    },
+    {
+      "lat": 48.31167, "lon": 8.9175,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "SOLGO"
+      }
+    },
+    {
+      "lat": 48.17417, "lon": 8.76472,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "EMKIL"
+      }
+    },
+    {
+      "lat": 48.05611, "lon": 8.83611,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "USETI"
+      }
+    },
+    {
+      "lat": 47.99301, "lon": 8.94891,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "NEDOV"
+      }
+    },
+    {
+      "lat": 47.79312, "lon": 9.30018,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "GARMO"
+      }
+    },
+    {
+      "lat": 47.729167, "lon": 9.669444,
+      "elevation": 0,
+      "type": "fix",
+      "fix": {
+        "name": "RAVED"
+      }
+    },
+    {
+      "lat": 47.66725, "lon": 9.501,
+      "elevation": 1367,
+      "type": "airport",
+      "airport": {
+        "icao": "EDNY"
+      }
+    }
+  ]
+}

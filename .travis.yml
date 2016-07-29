@@ -1,0 +1,5 @@
+language: node.js
+sudo: false
+install:
+  - npm install
+script: npm test
