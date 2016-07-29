@@ -1,5 +1,7 @@
 # Flight-Plan converter
 
+[![Build Status](https://travis-ci.org/der-On/flight-plan-converter.svg?branch=master)](https://travis-ci.org/der-On/flight-plan-converter)
+
 Converts Flight Plans from and to various file formats.
 
 
