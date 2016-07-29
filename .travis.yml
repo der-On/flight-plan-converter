@@ -1,4 +1,6 @@
-language: node.js
+language: node_js
+node_js:
+  - "6"
 sudo: false
 install:
   - npm install
