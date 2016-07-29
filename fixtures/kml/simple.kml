@@ -19,31 +19,36 @@
       <Placemark>
         <name>gps: 50, 11</name>
         <Point>
-          <coordinates>50,11,30.5</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>11,50,30.5</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>airport: EDBG</name>
         <Point>
-          <coordinates>52.24196492666667,11.85835872,52.46</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>11.85835872,52.24196492666667,52.46</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>ndb: MU</name>
         <Point>
-          <coordinates>52.074078,11.648333,0</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>11.648333,52.074078,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>vor: HLZ</name>
         <Point>
-          <coordinates>52.363394,10.795219,125.965</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>10.795219,52.363394,125.965</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>fix: BATEL</name>
         <Point>
-          <coordinates>52.546944,11.099722,0</coordinates>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>11.099722,52.546944,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -52,12 +57,13 @@
       <styleUrl>#waypoint</styleUrl>
       <Placemark>
         <LineString>
+          <altitudeMode>absolute</altitudeMode>
           <coordinates>
-            50,11,30.5
-            52.24196492666667,11.85835872,52.46
-            52.074078,11.648333,0
-            52.363394,10.795219,125.965
-            52.546944,11.099722,0
+            11,50,30.5
+            11.85835872,52.24196492666667,52.46
+            11.648333,52.074078,0
+            10.795219,52.363394,125.965
+            11.099722,52.546944,0
           </coordinates>
         </LineString>
       </Placemark>
