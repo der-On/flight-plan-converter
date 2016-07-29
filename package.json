@@ -5,6 +5,7 @@
   "bin": "cli.js",
   "main": "index.js",
   "scripts": {
+    "convert": "node cli.js @$",
     "test": "node node_modules/.bin/mocha lib/*.test.js lib/**/*.test.js"
   },
   "repository": {

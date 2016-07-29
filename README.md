@@ -8,6 +8,7 @@ Converts Flight Plans from and to various file formats.
 ## Supported formats:
 
 - [X-Planes](http://www.x-plane.com) `.fms`
+- KML (export only)
 
 
 ## Usage

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Flight Plan</name>
+    <Style id="waypoint">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <width>2</width>
+        <color>7fff00ff</color>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+      <styleUrl>#waypoint</styleUrl>
+      <Placemark>
+        <name>gps: 50, 11</name>
+        <Point>
+          <coordinates>50,11,30.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>airport: EDBG</name>
+        <Point>
+          <coordinates>52.24196492666667,11.85835872,52.46</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ndb: MU</name>
+        <Point>
+          <coordinates>52.074078,11.648333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>vor: HLZ</name>
+        <Point>
+          <coordinates>52.363394,10.795219,125.965</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>fix: BATEL</name>
+        <Point>
+          <coordinates>52.546944,11.099722,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Flight path</name>
+      <styleUrl>#waypoint</styleUrl>
+      <Placemark>
+        <LineString>
+          <coordinates>
+            50,11,30.5
+            52.24196492666667,11.85835872,52.46
+            52.074078,11.648333,0
+            52.363394,10.795219,125.965
+            52.546944,11.099722,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
