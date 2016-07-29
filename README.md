@@ -48,7 +48,7 @@ var fpl = {
   waypoints: [
     {
       lat: 50, lon: 11,
-      elevation: 100, // elevation in ft (is optional)
+      elevation: 100, // elevation in ft
       type: converter.types.GPS // -> 'gps'
     },
     {
@@ -69,6 +69,7 @@ var fpl = {
     },
     {
       lat: 52.546944, lon: 11.099722,
+      elevation: 0,
       type: converter.types.FIX // -> 'fix'
       fix: {
         name: "BATEL"
