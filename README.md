@@ -52,7 +52,7 @@ var fpl = {
       type: converter.types.GPS // -> 'gps'
     },
     {
-      lat: 52.24196492666667, lon: 11.85835872,f
+      lat: 52.24196492666667, lon: 11.85835872,
       elevation: 172,
       type: converter.types.AIRPORT // -> 'airport'
       airport: {
