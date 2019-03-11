@@ -1,0 +1,30 @@
+{
+  "waypoints": [
+    {
+      "lat": 36.674999, "lon": -4.499166,
+      "elevation": 49,
+      "type": "airport",
+      "airport": {
+        "icao": "LEMG"
+      }
+    },
+    {
+      "lat": 36.702221, "lon": -4.392778,
+      "elevation": 11500,
+      "type": "gps"
+    },
+    {
+      "lat": 36.716320, "lon": -4.282114,
+      "elevation": 11500,
+      "type": "gps"
+    },
+    {
+      "lat": 37.188732, "lon": -3.777356,
+      "elevation": 1860,
+      "type": "airport",
+      "airport": {
+        "icao": "LEGR"
+      }
+    }
+  ]
+}
