@@ -9,6 +9,7 @@ Converts Flight Plans from and to various file formats.
 
 - [X-Planes](http://www.x-plane.com) `.fms` V3
 - [X-Planes](http://www.x-plane.com) `.fms` V1100
+- [ForeFlight](https://plan.foreflight.com) `.fpl` (import only)
 - KML (export only)
 
 
@@ -19,6 +20,13 @@ On the command line:
 ```bash
 $ npm install
 $ npm run convert [source] [dest]
+```
+
+or bypassing npm to use directly: 
+
+```bash
+$ npm install
+$ flight-plan-converter [source] [dest]
 ```
 
 or programatically:

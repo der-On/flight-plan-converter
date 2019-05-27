@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-16"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+<created>20190525T08:45:04Z</created>
+<aircraft>
+    <aircraft-tailnumber>N850SP</aircraft-tailnumber>
+</aircraft>
+<flight-data>
+    <etd-zulu></etd-zulu>
+</flight-data>
+<waypoint-table>
+    
+    <waypoint>
+        <identifier>L52</identifier>
+        <type>AIRPORT</type>
+        <lat>35.10152919474789</lat>
+        <lon>-120.6223153742756</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>CADAB</identifier>
+        <type></type>
+        <lat>35.11938888888889</lat>
+        <lon>-120.4413388888889</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-01</identifier>
+        <type></type>
+        <lat>35.07034153843728</lat>
+        <lon>-120.3864403979264</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-02</identifier>
+        <type></type>
+        <lat>35.06636436644097</lat>
+        <lon>-120.3833184426588</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-03</identifier>
+        <type></type>
+        <lat>35.06174338984014</lat>
+        <lon>-120.3821006198917</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-04</identifier>
+        <type></type>
+        <lat>35.05706650858568</lat>
+        <lon>-120.3829415438931</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-05</identifier>
+        <type></type>
+        <lat>35.05292863772024</lat>
+        <lon>-120.3857339163487</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-06</identifier>
+        <type></type>
+        <lat>35.04985604675365</lat>
+        <lon>-120.3901223349648</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-07</identifier>
+        <type></type>
+        <lat>35.04823946947342</lat>
+        <lon>-120.3955485931137</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-08</identifier>
+        <type></type>
+        <lat>35.04828446506654</lat>
+        <lon>-120.4013226645086</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-09</identifier>
+        <type></type>
+        <lat>35.04998531218445</lat>
+        <lon>-120.4067103556043</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-10</identifier>
+        <type></type>
+        <lat>35.05312573547436</lat>
+        <lon>-120.4110265378736</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-11</identifier>
+        <type></type>
+        <lat>35.05730637278883</lat>
+        <lon>-120.4137221813008</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-12</identifier>
+        <type></type>
+        <lat>35.06199551133938</lat>
+        <lon>-120.4144541779385</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>H-13</identifier>
+        <type></type>
+        <lat>35.09385817570728</lat>
+        <lon>-120.412750294701</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>CADAB</identifier>
+        <type></type>
+        <lat>35.11938888888889</lat>
+        <lon>-120.4413388888889</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>HALDA</identifier>
+        <type></type>
+        <lat>35.16219722222223</lat>
+        <lon>-120.5112305555556</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>CAVLI</identifier>
+        <type></type>
+        <lat>35.17815</lat>
+        <lon>-120.5373111111111</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>RW29</identifier>
+        <type></type>
+        <lat>35.23344166666666</lat>
+        <lon>-120.6341638888889</lon>
+    </waypoint>
+    
+    <waypoint>
+        <identifier>KSBP</identifier>
+        <type>AIRPORT</type>
+        <lat>35.23727780596759</lat>
+        <lon>-120.6426112076252</lon>
+    </waypoint>
+    
+</waypoint-table>
+<route>
+    <route-name>L52 TO KSBP</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    
+    <route-point>
+        <waypoint-identifier>L52</waypoint-identifier>
+        <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>CADAB</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-01</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-02</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-03</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-04</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-05</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-06</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-07</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-08</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-09</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-10</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-11</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-12</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>H-13</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>CADAB</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>HALDA</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>CAVLI</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>RW29</waypoint-identifier>
+        <waypoint-type></waypoint-type>
+    </route-point>
+    
+    <route-point>
+        <waypoint-identifier>KSBP</waypoint-identifier>
+        <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+    
+</route>
+</flight-plan>
