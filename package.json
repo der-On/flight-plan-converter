@@ -2,10 +2,10 @@
   "name": "flight-plan-converter",
   "version": "0.0.5",
   "description": "Converts Flight Plans from and to various file formats.",
-  "bin": "cli.js",
+  "bin": "flight-plan-converter",
   "main": "index.js",
   "scripts": {
-    "convert": "node cli.js @$",
+    "convert": "node cli.js",
     "test": "node node_modules/.bin/mocha lib/*.test.js lib/**/*.test.js"
   },
   "repository": {
@@ -28,5 +28,8 @@
   "devDependencies": {
     "expect.js": "^0.3.1",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "libxmljs": "^0.19.5"
   }
 }
