@@ -1,6 +1,6 @@
 {
   "name": "flight-plan-converter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Converts Flight Plans from and to various file formats.",
   "bin": "flight-plan-converter",
   "main": "index.js",
